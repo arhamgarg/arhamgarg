@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋 I am <strong>Arham</strong></h1>
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Tech+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Deep+Learner;Tech+Enthusiast"
   />
 </div>
 
