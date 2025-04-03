@@ -10,19 +10,19 @@
   <h3>Programming Languages</h3>
   <div>
     <img
-      src="https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,lua,matlab,py"
+      src="https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,lua,matlab,py&perline=5"
     />
   </div>
   <h3>Libraries and Frameworks</h3>
   <div>
     <img
-      src="https://skillicons.dev/icons?i=electron,express,pytorch,react,tailwind"
+      src="https://skillicons.dev/icons?i=electron,fastapi,pytorch,react,tailwind&perline=5"
     />
   </div>
   <h3>Tools and Technologies</h3>
   <div>
     <img
-      src="https://skillicons.dev/icons?i=anaconda,appwrite,arch,arduino,debian,eclipse,emacs,firebase,git,github,idea,latex,less,linux,md,maven,mint,mysql,neovim,nodejs,npm,p5js,pycharm,svg,ubuntu,vercel,vim,vite,vscode,vscodium&perline=10"
+      src="https://skillicons.dev/icons?i=appwrite,arch,arduino,git,github,latex,linux,md,maven,mysql,neovim,npm,vercel,vite,vscodium&perline=5"
     />
   </div>
 </div>
