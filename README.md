@@ -33,13 +33,13 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=arhamgarg&theme=radical&hide_border=false&rank_icon=percentile&show_icons=true"
+          src="https://arhamgarg.vercel.app/api?username=arhamgarg&theme=radical&hide_border=false&rank_icon=percentile&show_icons=true"
           width="400"
         />
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamgarg&theme=radical&hide_border=false&langs_count=10&layout=compact"
+          src="https://arhamgarg.vercel.app/api/top-langs/?username=arhamgarg&theme=radical&hide_border=false&langs_count=10&layout=compact"
           width="300"
         />
       </td>
